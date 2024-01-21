@@ -1,0 +1,5 @@
+flags  perf-source  perf-vers1  perf_vers2  perf_vers3 
+-O0    0.4          0.9         0.9         15.3
+-O2    0.6          2.6         2.6         33.0
+-O3    0.6          2.6         2.6         33.5
+-Ofast 2.4          2.7         7.2         137.2
